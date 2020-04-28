@@ -17,3 +17,12 @@ body {
 #container h1 {
     font-size: 28px;
 }
+
+#cabecera {
+    text-align: left;
+    background: #3333aa;
+    color: white;
+    font-size: 32px;
+    margin: 0;
+    padding: 5px;
+}
