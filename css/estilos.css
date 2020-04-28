@@ -2,4 +2,18 @@ body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     color: slateblue;
+    margin: 5px;
+    padding: 5px;
+}
+
+#container {
+    width: 80%;
+    padding: 1em;
+    text-align: center;
+    border: 1px solid #dddddd;
+    margin: 0 auto;
+}
+
+#container h1 {
+    font-size: 28px;
 }
