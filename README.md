@@ -12,3 +12,5 @@ En el curso se han visto temas como:
 * git remote
 * entre otros
 * modificación realizada por el mejor .. lucho
+* incluye ejemplos 
+* disponible para todos
